@@ -1,4 +1,4 @@
-#Chapter 2 Default arguments, variable-length arguments and scope
+#Chapter 2 Default arguments, variable-length arguments and scope 
 
 ##Pop quiz on understanding scope
 In this exercise, you will practice what you've learned about scope in functions. The variable num has been predefined as 5, alongside the following function definitions:

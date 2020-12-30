@@ -1,4 +1,4 @@
-##Chapter 3 Lambda functions and error-handling
+##Chapter 3 Lambda functions and error-handling 
 
 ##Pop quiz on lambda functions
 In this exercise, you will practice writing a simple lambda function and calling this function. Recall what you know about lambda functions and answer the following questions:

@@ -1,4 +1,4 @@
-##Chapter 1 Writing your own functions
+##Chapter 1 Writing your own functions 
 
 ##Strings in Python
 In the video, you learned of another standard Python datatype, strings. Recall that these represent textual data. To assign the string 'DataCamp' to a variable company, you execute:
