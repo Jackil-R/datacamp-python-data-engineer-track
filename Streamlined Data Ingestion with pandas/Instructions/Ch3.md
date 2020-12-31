@@ -1,55 +1,55 @@
-#Chapter 3 - Importing Data from Databases
+# Chapter 3 - Importing Data from Databases
 
-##Connect to a database
+## Connect to a database
 
-####Instructions
-
-
-##Load entire tables
-
-####Instructions
+#### Instructions
 
 
-##Selecting columns with SQL
+## Load entire tables
 
-####Instructions
-
-
-##Selecting rows
-
-####Instructions
+#### Instructions
 
 
-##Filtering on multiple conditions
+## Selecting columns with SQL
 
-####Instructions
-
-
-##Getting distinct values
-
-####Instructions
+#### Instructions
 
 
-##Counting in groups
+## Selecting rows
 
-####Instructions
-
-
-##Working with aggregate functions
-
-####Instructions
+#### Instructions
 
 
-##Joining tables
+## Filtering on multiple conditions
 
-####Instructions
-
-
-##Joining and filtering
-
-####Instructions
+#### Instructions
 
 
-##Joining, filtering, and aggregating
+## Getting distinct values
 
-####Instructions
+#### Instructions
+
+
+## Counting in groups
+
+#### Instructions
+
+
+## Working with aggregate functions
+
+#### Instructions
+
+
+## Joining tables
+
+#### Instructions
+
+
+## Joining and filtering
+
+#### Instructions
+
+
+## Joining, filtering, and aggregating
+
+#### Instructions

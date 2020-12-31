@@ -1,45 +1,45 @@
-#Chapter 4 - Importing JSON Data and Working with APIs
+# Chapter 4 - Importing JSON Data and Working with APIs
 
-##Load JSON data
+## Load JSON data
 
-####Instructions
+#### Instructions
 
 
-##Work with JSON orientations
+## Work with JSON orientations
 
-####Instructions
+#### Instructions
 
 
 #Get data from an API
 
-####Instructions
+#### Instructions
 
 
-##Set API parameters
+## Set API parameters
 
-####Instructions
+#### Instructions
 
 
-##Set request headers
+## Set request headers
 
-####Instructions
+#### Instructions
 
 
 #Flatten nested JSONs
 
-####Instructions
+#### Instructions
 
 
-##Handle deeply nested data
+## Handle deeply nested data
 
-####Instructions
-
-
-##Append data frames
-
-####Instructions
+#### Instructions
 
 
-##Merge data frames
+## Append data frames
 
-####Instructions
+#### Instructions
+
+
+## Merge data frames
+
+#### Instructions

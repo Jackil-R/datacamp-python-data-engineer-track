@@ -1,50 +1,50 @@
-#Chapter 2 - Importing Data From Excel Files
+# Chapter 2 - Importing Data From Excel Files
 
-##Get data from a spreadsheet
+## Get data from a spreadsheet
 
-####Instructions
-
-
-##Load a portion of a spreadsheet
-
-####Instructions
+#### Instructions
 
 
-##Select a single sheet
+## Load a portion of a spreadsheet
 
-####Instructions
-
-
-##Select multiple sheets
-
-####Instructions
+#### Instructions
 
 
-##Modifying imports: true/false data
+## Select a single sheet
 
-####Instructions
-
-
-##Set Boolean columns
-
-####Instructions
+#### Instructions
 
 
-##Set custom true/false values
+## Select multiple sheets
 
-####Instructions
+#### Instructions
 
 
-##Parse simple dates
+## Modifying imports: true/false data
 
-####Instructions
+#### Instructions
+
+
+## Set Boolean columns
+
+#### Instructions
+
+
+## Set custom true/false values
+
+#### Instructions
+
+
+## Parse simple dates
+
+#### Instructions
 
 
 #Get datetimes from multiple columns
 
-####Instructions
+#### Instructions
 
 
 #Parse non-standard date formats
 
-####Instructions
+#### Instructions
