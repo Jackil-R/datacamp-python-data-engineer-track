@@ -32,7 +32,7 @@ print("=========================================================")
 
 #Get data from an API
 api_url = "https://api.yelp.com/v3/businesses/search"
-api_key = "B8t6qN3cM_fhFn8vBKsU90isOFle3CTDoH9RRdqN1w1kZT54EKSk9iv_s_wJtsiC_ODPwUzgahk54QdiZaPdnU6N2rwww915NRAoct3pQGCYtRWHn6bAweg6EDDvX3Yx"
+api_key = ""
 headers = {"Authorization": "Bearer {}".format(api_key)}
 parameters = {"term": "cafe",
               "location": "NYC"}
@@ -94,7 +94,7 @@ print("=========================================================")
 from pandas.io.json import json_normalize
 
 api_url = 'https://api.yelp.com/v3/businesses/search'
-api_key = "B8t6qN3cM_fhFn8vBKsU90isOFle3CTDoH9RRdqN1w1kZT54EKSk9iv_s_wJtsiC_ODPwUzgahk54QdiZaPdnU6N2rwww915NRAoct3pQGCYtRWHn6bAweg6EDDvX3Yx"
+api_key = ""
 headers = {"Authorization": "Bearer {}".format(api_key)}
 parameters = {'location': 'NYC', 'term': 'cafe'}
 # Isolate the JSON data from the API response
