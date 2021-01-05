@@ -140,6 +140,6 @@ def predict_win_perc(RS, RA):
 Let's compare the approaches you've learned to calculate a predicted win percentage for each season (or row) in your DataFrame.
 #### Instructions
 - Use a for loop and .itertuples() to predict the win percentage for each row of baseball_df with the predict_win_perc() function. Save each row's predicted win percentage as win_perc_pred and append each to the win_perc_preds_loop list.
-- 
-- 
+- Apply predict_win_perc() to each row of the baseball_df DataFrame using a lambda function. Save the predicted win percentage as win_perc_preds_apply.
+- Calculate the predicted win percentages by passing the underlying 'RS' and 'RA' arrays from baseball_df into predict_win_perc(). Save these predictions as win_perc_preds_np.
 - 
