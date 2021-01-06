@@ -1,0 +1,2 @@
+Congratulations! You wrote a context manager that acts like "open()" but operates in read-only mode!
+Hello!
