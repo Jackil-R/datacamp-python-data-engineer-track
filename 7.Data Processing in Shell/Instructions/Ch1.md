@@ -1,4 +1,4 @@
-## Chapter 1 - Downloading Data on the Command Line
+# Chapter 1 - Downloading Data on the Command Line
 
 
 ## Using curl documentation
